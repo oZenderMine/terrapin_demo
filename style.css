@@ -1,0 +1,21 @@
+body {
+  color: #1c1c1c;
+  background-color: #ff0000;
+  margin: 0px;
+}
+
+.headerContainer {
+  margin: 0px;
+  background-color: #7a7a7a;
+}
+
+.footerContainer {
+  margin: 0px;
+  background-color: #7a7a7a;
+}
+
+.pageContainer {
+  margin: 0px;
+  background-color: #c1c1c1;
+  height: 100vh;
+}
