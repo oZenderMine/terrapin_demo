@@ -7,11 +7,15 @@ body {
 .headerContainer {
   margin: 0px;
   background-color: #7a7a7a;
+  border: solid #000000;
+  border-width: 1px 0px 3px 0px;
 }
 
 .footerContainer {
   margin: 0px;
   background-color: #7a7a7a;
+  border: solid #000000;
+  border-width: 3px 0px 1px 0px;
 }
 
 .pageContainer {
