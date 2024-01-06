@@ -5,10 +5,13 @@ body {
 }
 
 .headerContainer {
-  margin: 0px;
+  padding: 0px 0px 0px 0px;
   background-color: #7a7a7a;
   border: solid #000000;
   border-width: 1px 0px 3px 0px;
+  display: flex;
+  justify-content: space-around;
+  align-content: space-evenly;
 }
 
 .footerContainer {
@@ -19,7 +22,15 @@ body {
 }
 
 .pageContainer {
-  margin: 0px;
+  padding: 4%;
   background-color: #c1c1c1;
   height: 100vh;
+}
+
+.mediaBlock {
+  margin: 1% 7% 1% 7%;
+  background-color: #a7a7a7;
+  border: solid #000000;
+  border-style: 1px 1px 1px 1px;
+  border-radius: 5px;
 }
